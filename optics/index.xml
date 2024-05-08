@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optics on Akol</title>
+    <link>http://localhost:1313/optics/</link>
+    <description>Recent content in Optics on Akol</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 May 2024 10:18:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/optics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qrcode</title>
+      <link>http://localhost:1313/optics/qrcode/</link>
+      <pubDate>Thu, 09 May 2024 10:18:00 -0300</pubDate>
+      <guid>http://localhost:1313/optics/qrcode/</guid>
+      <description>If you are here it means that you scanned one of the QRCodes that are in the items of the Akol Scope Mod. If you&amp;rsquo;ve been redirected here from a server that is not using the Akol Scope Mod, it means that you are playing a server using a ripped version of the original mod. Please report it here.&#xA;The mod is developed and distributed for free in the Steam Workshop under the steam account Akol.</description>
+    </item>
+  </channel>
+</rss>
