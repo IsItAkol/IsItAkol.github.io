@@ -3,10 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-24T10:18:00-03:00</lastmod>
+    <lastmod>2024-08-30T10:18:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dayz/</loc>
-    <lastmod>2024-06-24T10:18:00-03:00</lastmod>
+    <lastmod>2024-08-30T10:18:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dayz/mods/mountsandsights/mainmenu/</loc>
+    <lastmod>2024-08-30T10:18:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dayz/mods/mountsandsights/guide/</loc>
+    <lastmod>2024-08-30T10:18:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dayz/mods/mountsandsights/qrcode/</loc>
     <lastmod>2024-06-24T10:18:00-03:00</lastmod>

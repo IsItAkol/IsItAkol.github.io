@@ -6,14 +6,28 @@
     <description>Recent content on Akol</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jun 2024 10:18:00 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 10:18:00 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mounts &amp; Sights QR Code</title>
+      <title>Main Menu link</title>
+      <link>http://localhost:1313/dayz/mods/mountsandsights/mainmenu/</link>
+      <pubDate>Fri, 30 Aug 2024 10:18:00 -0300</pubDate>
+      <guid>http://localhost:1313/dayz/mods/mountsandsights/mainmenu/</guid>
+      <description>You are probably here because you clicked on the Mounts &amp;amp; Sights website link in the DayZ main menu. The mounts compatibility infographic might be useful to you. You can also find more information about the mod on its Steam Workshop page.&#xA;If you are enjoying the mod and want to foment further development, consider making a donation:</description>
+    </item>
+    <item>
+      <title>Mounts Guide</title>
+      <link>http://localhost:1313/dayz/mods/mountsandsights/guide/</link>
+      <pubDate>Fri, 30 Aug 2024 10:18:00 -0300</pubDate>
+      <guid>http://localhost:1313/dayz/mods/mountsandsights/guide/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>QR Code</title>
       <link>http://localhost:1313/dayz/mods/mountsandsights/qrcode/</link>
-      <pubDate>Mon, 24 Jun 2024 10:18:00 -0300</pubDate>
+      <pubDate>Fri, 30 Aug 2024 10:18:00 -0300</pubDate>
       <guid>http://localhost:1313/dayz/mods/mountsandsights/qrcode/</guid>
-      <description>You are probably here because you scanned one of the QR codes present in the Mounts &amp;amp; Sights mod for DayZ (Steam Workshop page).&#xA;If you are enjoying the mod and want to foment further development, consider making a donation:&#xA;If you&amp;rsquo;ve been redirected here from a server that is not using a mod called &amp;ldquo;Mounts &amp;amp; Sights&amp;rdquo;, it means that you are playing in a server that is using a illegal version of the mod.</description>
+      <description>You are probably here because you scanned one of the QR codes from the Mounts &amp;amp; Sights mod for DayZ. The mounts compatibility infographic might be useful for you. You can also find more information about the mod on its Steam Workshop page.&#xA;If you are enjoying the mod and want to foment further development, consider making a donation:&#xA;If you&amp;rsquo;ve been redirected here from a server that is not using a mod called &amp;ldquo;Mounts &amp;amp; Sights&amp;rdquo;, it means that you are playing in a server that is using a illegal version of the mod.</description>
     </item>
   </channel>
 </rss>
