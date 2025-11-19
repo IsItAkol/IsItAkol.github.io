@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dayzs on Akol</title>
-    <link>http://localhost:1313/dayz/</link>
+    <link>https://akol-repo.github.io/dayz/</link>
     <description>Recent content in Dayzs on Akol</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Aug 2024 10:18:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/dayz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://akol-repo.github.io/dayz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Main Menu link</title>
-      <link>http://localhost:1313/dayz/mods/mountsandsights/mainmenu/</link>
+      <title>Mounts &amp; Sights Guide</title>
+      <link>https://akol-repo.github.io/dayz/mods/mountsandsights/guide/</link>
       <pubDate>Fri, 30 Aug 2024 10:18:00 -0300</pubDate>
-      <guid>http://localhost:1313/dayz/mods/mountsandsights/mainmenu/</guid>
-      <description>You are probably here because you clicked on the Mounts &amp;amp; Sights website link in the DayZ main menu. The mounts compatibility infographic might be useful to you. You can also find more information about the mod on its Steam Workshop page.&#xA;If you are enjoying the mod and want to foment further development, consider making a donation:</description>
-    </item>
-    <item>
-      <title>Mounts Guide</title>
-      <link>http://localhost:1313/dayz/mods/mountsandsights/guide/</link>
-      <pubDate>Fri, 30 Aug 2024 10:18:00 -0300</pubDate>
-      <guid>http://localhost:1313/dayz/mods/mountsandsights/guide/</guid>
+      <guid>https://akol-repo.github.io/dayz/mods/mountsandsights/guide/</guid>
       <description> </description>
     </item>
     <item>
-      <title>QR Code</title>
-      <link>http://localhost:1313/dayz/mods/mountsandsights/qrcode/</link>
+      <title>Mounts &amp; Sights Info</title>
+      <link>https://akol-repo.github.io/dayz/mods/mountsandsights/mainmenu/</link>
       <pubDate>Fri, 30 Aug 2024 10:18:00 -0300</pubDate>
-      <guid>http://localhost:1313/dayz/mods/mountsandsights/qrcode/</guid>
-      <description>You are probably here because you scanned one of the QR codes from the Mounts &amp;amp; Sights mod for DayZ. The mounts compatibility infographic might be useful for you. You can also find more information about the mod on its Steam Workshop page.&#xA;If you are enjoying the mod and want to foment further development, consider making a donation:&#xA;If you&amp;rsquo;ve been redirected here from a server that is not using a mod called &amp;ldquo;Mounts &amp;amp; Sights&amp;rdquo;, it means that you are playing in a server that is using a illegal version of the mod.</description>
+      <guid>https://akol-repo.github.io/dayz/mods/mountsandsights/mainmenu/</guid>
+      <description>You are here because you clicked on the Mounts &amp;amp; Sights link in the DayZ main menu. The mounts compatibility infographic might be useful:&#xA;More information about the mod in the Steam Workshop page.&#xA;If you enjoy the mod and want to foment further development, consider making a donation.</description>
+    </item>
+    <item>
+      <title>Mounts &amp; Sights QR Code</title>
+      <link>https://akol-repo.github.io/dayz/mods/mountsandsights/qrcode/</link>
+      <pubDate>Fri, 30 Aug 2024 10:18:00 -0300</pubDate>
+      <guid>https://akol-repo.github.io/dayz/mods/mountsandsights/qrcode/</guid>
+      <description>You are here because you scanned one of the QR codes from the Mounts &amp;amp; Sights mod for DayZ. The mounts compatibility infographic might be useful:&#xA;If you enjoy the mod and want to foment further development, consider making a donation.&#xA;If you&amp;rsquo;ve been redirected here from a server that is not using the mod named &amp;ldquo;Mounts &amp;amp; Sights&amp;rdquo;, you are playing in a server that is using a redistributed version of the mod.</description>
     </item>
   </channel>
 </rss>
