@@ -2,23 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://akol-repo.github.io/</loc>
     <lastmod>2024-08-30T10:18:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dayz/</loc>
+    <loc>https://akol-repo.github.io/tags/dayz/</loc>
     <lastmod>2024-08-30T10:18:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dayz/mods/mountsandsights/mainmenu/</loc>
+    <loc>https://akol-repo.github.io/dayz/</loc>
     <lastmod>2024-08-30T10:18:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dayz/mods/mountsandsights/guide/</loc>
+    <loc>https://akol-repo.github.io/tags/mod/</loc>
     <lastmod>2024-08-30T10:18:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dayz/mods/mountsandsights/qrcode/</loc>
+    <loc>https://akol-repo.github.io/tags/mounts--sights/</loc>
     <lastmod>2024-08-30T10:18:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://akol-repo.github.io/dayz/mods/mountsandsights/guide/</loc>
+    <lastmod>2024-08-30T10:18:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://akol-repo.github.io/dayz/mods/mountsandsights/mainmenu/</loc>
+    <lastmod>2024-08-30T10:18:00-03:00</lastmod>
+  </url><url>
+    <loc>https://akol-repo.github.io/dayz/mods/mountsandsights/qrcode/</loc>
+    <lastmod>2024-08-30T10:18:00-03:00</lastmod>
+  </url><url>
+    <loc>https://akol-repo.github.io/tags/</loc>
+    <lastmod>2024-08-30T10:18:00-03:00</lastmod>
+  </url><url>
+    <loc>https://akol-repo.github.io/categories/</loc>
   </url>
 </urlset>
